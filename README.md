@@ -1,2 +1,2 @@
 # CodingPractice
-I will attempt to solve various coding problems
+We will attempt to solve various coding problems collaboratively
